@@ -1,4 +1,12 @@
+## Sabrina's First CS193 Homework
+
 _Hi_ **My name is Sabrina** `and I have no idea what im doing`
+
+## My Favorite Things About CS193
+
+- Relaxed
+- Easy to follow(so far?)
+- Only one class a week
 
 ## Welcome to GitHub Pages
 
